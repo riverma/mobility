@@ -49,7 +49,7 @@ function body() {
     el('p', { class: 'mc-privacy' },
       'We don’t collect or track your data. Maps, routes, and geocoding are fetched from the third-party services listed above.'),
     el('p', { class: 'mc-meta' },
-      el('span', { class: 'app-version' }, 'v1.0.0'),
+      el('span', { class: 'app-version' }, 'v1.0.1'),
       ' · ',
       el('a', { class: 'app-source', href: 'https://github.com/riverma/mobility', target: '_blank', rel: 'noopener' },
         'Source · AGPL-3.0')),
